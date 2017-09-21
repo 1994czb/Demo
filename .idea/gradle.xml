@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/menuShow" />
+            <option value="$PROJECT_DIR$/myview" />
             <option value="$PROJECT_DIR$/numcasedemo" />
           </set>
         </option>

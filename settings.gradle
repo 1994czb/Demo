@@ -1,1 +1,1 @@
-include ':menuShow', ':numcasedemo'
+include ':menuShow', ':numcasedemo', ':myview'
